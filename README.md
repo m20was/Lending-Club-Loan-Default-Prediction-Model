@@ -1,4 +1,4 @@
-# Lending-Club-Pyspark
+# Lending-Club-Loan-Default-Prediction-Model
 Lending Club Loan Default Prediction Model
 
 Here's a detailed 2000-word description of your **Loan Default Prediction Model** project using the STAR (Situation, Task, Action, Result) model for a GitHub README.md file:
