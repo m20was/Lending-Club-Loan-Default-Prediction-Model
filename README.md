@@ -161,7 +161,6 @@ The developed model has significant potential business impact:
   - MLlib: Advanced machine learning algorithms
 - Pandas & NumPy: Data manipulation and numerical computing
 - Matplotlib: Data visualization
-- Scikit-learn: Additional machine learning utilities
 - imbalanced-learn: Handling class imbalance
 
 ### Key Libraries and Modules
