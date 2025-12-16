@@ -1,7 +1,7 @@
 # Lending-Club-Loan-Default-Prediction-Model
 Lending Club Loan Default Prediction Model
 
-Here's a detailed description of **Loan Default Prediction Model** project using the STAR (Situation, Task, Action, Result) model for a GitHub README.md file:
+Here's a detailed description of **Loan Default Prediction Model** project using the STAR (Situation, Task, Action, Result) model:
 
 # Loan Default Prediction Model
 
